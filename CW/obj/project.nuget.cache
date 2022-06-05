@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ee/i1xuPD52/9q1AwSKEdDQmqmr/Q9S8jd7x2QHs9HHM+DDEU5CL6jL9XeNKwkL4vmquVj8O8tMA55AI7u45yA==",
+  "success": true,
+  "projectFilePath": "D:\\Дарья\\ИНСТИТУТ\\Курсачи\\Курсовой проект 6 (ТРПК)\\Dashe\\Даше\\CW\\CW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\microsoft.data.sqlite\\6.0.5\\microsoft.data.sqlite.6.0.5.nupkg.sha512",
+    "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.5\\microsoft.data.sqlite.core.6.0.5.nupkg.sha512",
+    "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
